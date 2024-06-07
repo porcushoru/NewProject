@@ -1,5 +1,3 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, Git!");
-    }
-}
+package NewProject;
+
+public class Main { public static void main(String[] args) { System.out.println("New Feature!"); } }
